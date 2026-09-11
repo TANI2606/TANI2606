@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="180" alt="Kermit Typing" />
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="180" alt="Funny Cat Hacking" />
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Cat Coding" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%26+ML+Engineer;Deep+Learning+%26+GenAI+Enthusiast;Building+Agentic+AI+Workflows" alt="Typing SVG" />
@@ -43,7 +42,7 @@ I am a passionate technologist dedicated to solving complex problems through dat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TANI2606&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TANI2606&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TANI2606&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>

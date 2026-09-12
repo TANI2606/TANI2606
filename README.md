@@ -42,9 +42,13 @@ I am a passionate technologist dedicated to solving complex problems through dat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TANI2606&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <a href="https://github.com/TANI2606">
+    <img src="https://github-readme-stats.vercel.app/api?username=TANI2606&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TANI2606&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/TANI2606">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TANI2606&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---

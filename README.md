@@ -21,11 +21,11 @@ I am a passionate technologist dedicated to solving complex problems through dat
 
 ---
 
-## 💼 Featured Projects
+## 💼 Minor Projects
 
+* 📁 **[Credit Risk Predictor Engine](https://credit-risk-predictor-1-m8xq.onrender.com)**
 * 📁 **[Students Mental Health Score Predictor](https://github.com/TANI2606/Students-Mental-Health-Score-Predictor)**
 * 📁 **[NYC Airbnb ML Predictor](https://github.com/TANI2606/NYC-airbnb-ml-predictor)**
-* 📁 **[DataScience Repository](https://github.com/TANI2606/DataScience)**
 
 ---
 

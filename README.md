@@ -1,4 +1,4 @@
-.<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hi,%20I'm%20Tanishq%20Bansal!&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Header Banner" />
 </div>
 
